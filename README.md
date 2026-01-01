@@ -1,6 +1,6 @@
 # hangman-game
 - a classic hangman game built with python
-- this project uses Python concepts such as loops, functions, sets, conditionals, and basic game logic to build a classic Hangman game
+- this project uses python concepts such as loops, functions, sets, conditionals, and basic game logic to build a classic Hangman game
 
   # How It Works
   - a random word is selected from a word list
